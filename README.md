@@ -2,8 +2,8 @@
 
 **`FullStack Dev in Progress...`**
 
-Sou um profissional focado em automações, desenvolvimento BackEnd e aprimoramento de sistemas, comprometido com a melhora contínua. Com minha experiência em Python, busco desenvolver projetos que entregam soluções práticas e eficientes.
-Comprometido com o aprendizado constante, busco evoluir como desenvolvedor e construir sistemas que gerem resultados. Valorizo os desafios que impulsionem meu crescimento e colaborações que agreguem valor a projetos!!! 🚀🐍💻
+Sou um profissional focado em automações, desenvolvimento BackEnd e aprimoramento de sistemas, comprometido com a melhora contínua. Com minha experiência em Python, busco desenvolver projetos que entregam soluções práticas e eficientes. Embora meu foco principal seja o back-end, possuo conhecimentos em front-end, que me permitem ter uma visão mais completa do desenvolvimento.
+Valorizo os desafios que impulsionem meu crescimento e colaborações que agreguem valor a projetos!!! 🚀🐍💻
 
 <br />
 📧 E-mail: renan.alonso025@gmail.com <br />
