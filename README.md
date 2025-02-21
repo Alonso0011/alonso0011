@@ -121,6 +121,22 @@ Comprometido com o aprendizado constante, busco evoluir como desenvolvedor e con
     style="background-color: lightgray; padding: px; border-radius: 15px; margin-right:px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg"
 />
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left"
+    alt="HTML5"
+    title="HTML5"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
 <br />
 <br />
 <br />
